@@ -1,0 +1,13 @@
+ backend API implementation! 🎉 Here's a quick summary of each API endpoint's functionality:
+
+1. Register User API: Allows new users to sign up by creating an account with email and password.
+2. Verify Email API: Confirms the user's email, typically by sending an OTP or a verification link to the registered email.
+3. Login User API: Authenticates the user, allowing them to log in by verifying their credentials.
+4. Logout API: Logs the user out, clearing their session or token as needed.
+5. Upload Avatar API: Enables users to upload or update their profile picture.
+6. Update User Details API: Allows users to update their personal information, such as name or contact details.
+7. Forgot Password API: Sends an OTP to the user’s email, enabling them to initiate a password reset.
+8. Verify OTP for Password Reset API: Confirms that the OTP entered by the user is correct and still valid.
+9. Reset Password API: Resets the user’s password once the OTP has been successfully verified.
+
+ 
